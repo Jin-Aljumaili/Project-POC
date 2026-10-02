@@ -3,25 +3,18 @@
 
 # CoC:
 
-Strike-systeem 
+## Strike-systeem 
 
 Binnen het team werken we met een strike-systeem om afspraken en verantwoordelijkheden duidelijk te houden. 
-
 Bij 3 strikes kan een teamlid uit de groep worden gezet. 
-
 Wanneer iemand minder dan een halfuur van tevoren meldt dat hij/zij te laat of afwezig is, kan hiervoor een strike worden gegeven, tenzij er sprake is van overmacht. (Als iemand zich verslaapt kan dat natuurlijk later aangegeven worden) 
-
 Het aanpassen of verwijderen van code van een ander teamlid zonder overleg kan leiden tot een strike. 
-
 Wanneer een teamlid door het niet of te laat uitvoeren van afgesproken werkzaamheden ervoor zorgt dat een deadline niet gehaald kan worden, kan hiervoor een strike worden gegeven. 
-
 Wanneer een dagelijkse stand-up niet wordt geplaatst, volgt in eerste instantie een waarschuwing. 
-
 Voordat een strike wordt gegeven, wordt de situatie kort binnen het team besproken. 
-
 Bij herhaald gedrag kunnen waarschuwingen uiteindelijk leiden tot een strike. 
-
 Strikes worden altijd duidelijk gecommuniceerd, inclusief de reden waarom deze is gegeven. 
+
 
 Scrum 
 
@@ -34,6 +27,7 @@ Aan het begin van iedere sprint worden de user stories verdeeld en worden verant
 Aan het einde van iedere sprint wordt kort gereflecteerd op wat goed ging en wat beter kan. 
 
 Problemen of blokkades worden zo snel mogelijk gemeld en niet pas vlak voor een deadline. 
+
 
 Communicatie 
 
@@ -49,6 +43,7 @@ Ideeën en feedback worden inhoudelijk besproken zonder elkaar persoonlijk aan t
 
 Onenigheid wordt eerst onderling besproken. Wanneer dit niet opgelost kan worden, wordt indien nodig een docent of begeleider betrokken. 
 
+
 Deadlines 
 
 Deadlines worden gezamenlijk afgesproken en zijn voor iedereen duidelijk. 
@@ -60,6 +55,7 @@ Een probleem met een deadline wordt niet pas op het laatste moment gemeld.
 Wanneer werkzaamheden afhankelijk zijn van elkaar, houden teamleden rekening met elkaars planning. 
 
 Iedereen blijft verantwoordelijk voor zijn/haar eigen toegewezen taken. 
+
 
 Teamwork 
 
@@ -76,6 +72,7 @@ Iedereen draagt actief bij aan het project en aan gezamenlijke beslissingen.
 Feedback wordt serieus genomen en waar nodig verwerkt. 
 
 Iedere werkdag wordt vóór aanvang van het werk een stand-up geplaatst in het daarvoor bestemde Teams-kanaal. 
+
 
 Versiebeheer 
 
