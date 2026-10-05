@@ -1,0 +1,9 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Image source="project://database/Assets/Sprites/HUD/Placeholder.jpg?fileID=-1037983474548051733&amp;guid=feb4a096e75b61a48a81d8eca0a71fc6&amp;type=3#hitpoint_0" name="Player1" style="height: 180px; width: 180px; top: 0; left: 0; position: absolute;"/>
+    <ui:Image source="project://database/Assets/Sprites/HUD/Placeholder.jpg?fileID=-1037983474548051733&amp;guid=feb4a096e75b61a48a81d8eca0a71fc6&amp;type=3#hitpoint_0" name="Player2" style="height: 180px; width: 180px; right: 0; align-self: auto; justify-content: flex-start; top: 0; position: absolute;"/>
+    <ui:IntegerField label="" value="0" name="Player2Score" style="position: absolute; left: auto; top: 65px; right: 180px; width: 60px; height: 60px; align-content: center; -unity-text-align: middle-center;"/>
+    <ui:IntegerField label="" value="0" name="Player1Score" style="position: absolute; left: 180px; top: 65px; right: auto; width: 60px; height: 60px; align-content: center; -unity-text-align: middle-center;"/>
+    <ui:Image source="project://database/Assets/Sprites/HUD/Placeholder.jpg?fileID=-1037983474548051733&amp;guid=feb4a096e75b61a48a81d8eca0a71fc6&amp;type=3#hitpoint_0" name="Player1Turn" style="height: 180px; width: 180px; top: 0; left: 350px; position: absolute;"/>
+    <ui:Image source="project://database/Assets/Sprites/HUD/Placeholder.jpg?fileID=-1037983474548051733&amp;guid=feb4a096e75b61a48a81d8eca0a71fc6&amp;type=3#hitpoint_0" name="Player2Turn" style="height: 180px; width: 180px; top: 0; left: auto; position: absolute; right: 350px;"/>
+    <ui:HelpBox text="Help Box" style="position: absolute; bottom: 0; right: 0; width: 180px; height: 180px;"/>
+</ui:UXML>
